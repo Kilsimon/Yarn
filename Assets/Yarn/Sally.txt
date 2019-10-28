@@ -1,0 +1,11 @@
+title: Init
+tags: 
+colorID: 0
+position: 692,327
+---
+<<if visited("Sally") is true>>
+    Sally!!!!
+<<else>> 
+    No Sally. :(
+<<endif>> 
+===

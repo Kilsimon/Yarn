@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cbd209c2ef2693478de31e9ec842b97, type: 3}
+  m_Name: Dansk
+  m_EditorClassIdentifier: 
+  Translations:
+  - Id: menu_start
+    Value: Start
+  - Id: menu_settings
+    Value: Indstillinger
+  - Id: menu_back
+    Value: Tilbage
+  - Id: menu_settings_danish
+    Value: Dansk
+  - Id: menu_settings_english
+    Value: Engelsk
+  - Id: dialog_helloworld
+    Value: "Hall\xF8jsa, mit navn er Harald Bl\xE5tand, Velkommen til mit land"
+  - Id: menu_settings_audio
+    Value: Lyd
+  - Id: test_line_1
+    Value: I
+  - Id: test_line_2
+    Value: am
+  - Id: test_line_3
+    Value: not
+  - Id: test_line_4
+    Value: going
+  - Id: test_line_5
+    Value: to
+  - Id: test_line_6
+    Value: translate
+  - Id: test_line_7
+    Value: every
+  - Id: test_line_8
+    Value: single
+  - Id: test_line_9
+    Value: one
+  - Id: test_line_10
+    Value: of
+  - Id: test_line_11
+    Value: these
+  - Id: test_line_12
+    Value: lines
+  - Id: test_line_13
+    Value: when
+  - Id: test_line_14
+    Value: everybody
+  - Id: test_line_15
+    Value: else
+  - Id: test_line_16
+    Value: is
+  - Id: test_line_17
+    Value: going
+  - Id: test_line_18
+    Value: to
+  - Id: test_line_19
+    Value: drink
+  - Id: test_line_20
+    Value: beers
+  - Id: test_line_21
+    Value: in
+  - Id: test_line_22
+    Value: just
+  - Id: test_line_23
+    Value: a
+  - Id: test_line_24
+    Value: small
+  - Id: test_line_25
+    Value: moment
+  - Id: test_line_26
+    Value: of
+  - Id: test_line_27
+    Value: time
+  - Id: test_line_28
+    Value: '!'
+  - Id: test_line_change_language
+    Value: Skift Sprog

@@ -1,0 +1,18 @@
+title: Init
+tags: 
+colorID: 0
+position: 503,324
+---
+<<if visited("Sally") is true>>
+    Sally!!!!
+<<else>> 
+     [[Go to Sally?|Sally]]
+<<endif>> 
+===
+title: Sally
+tags: 
+colorID: 0
+position: 857,323
+---
+I'm Sally
+===

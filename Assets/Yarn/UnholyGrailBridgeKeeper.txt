@@ -1,0 +1,206 @@
+title: Intro
+tags: 
+colorID: 1
+position: -710,-240
+---
+GALAHAD: There it is!
+ARTHUR: The Bridge of Death!
+ROBIN: Oh, great.
+ARTHUR: Look! There's the old man from scene twenty-four!
+BEDEVERE: What is he doing here?
+ARTHUR: He is the keeper of the Bridge of Death. He asks each traveller five questions--
+GALAHAD: Three questions.
+ARTHUR: Three questions. He who answers the five questions--
+GALAHAD: Three questions.
+ARTHUR: Three questions may cross in safety.
+ROBIN: What if you get a question wrong?
+ARTHUR: Then you are cast into the Gorge of Eternal Peril.
+ROBIN: Oh, I won't go.
+GALAHAD: Who's going to answer the questions?
+ARTHUR: Sir Robin!
+ROBIN: Yes?
+ARTHUR: Brave Sir Robin, you go.
+ROBIN: Hey! I've got a great idea. Why doesn't Lancelot go?
+LANCELOT: Yes. Let me go, my liege. I will take him single-handed. I shall make a feint to the north-east that s--
+ARTHUR: No, no. No. Hang on! Hang on! Hang on! Just answer the five questions--
+GALAHAD: Three questions.
+ARTHUR: Three questions as best you can, and we shall watch... and pray.
+LANCELOT: I understand, my liege.
+ARTHUR: Good luck, brave Sir Lancelot. God be with you.
+BRIDGEKEEPER: Stop! Who would cross the Bridge of Death must answer me these questions three, ere the other side he see.
+LANCELOT: Ask me the questions, bridgekeeper. I am not afraid.
+ [[Go|LANCELOT_Question_1]]
+===
+title: Robin_Question_1
+tags: 
+colorID: 0
+position: -340,8
+---
+What... is your name?
+    [[Sir Lancelot of Camelot|Die]]
+    [[Sir Robin of Camelot|Robin_Question_2]]
+    [[Sir Galahad of Camelot|Die]]
+    [[Arthur, King of the Britons|Die]]
+===
+title: Robin_Question_2
+tags: 
+colorID: 0
+position: -103,14
+---
+What... is your quest?
+    [[To seek the Holy Grail|Robin_Question_3]]
+    [[To save the princess|Die]]
+    [[To see the Female Doctors|Die]]
+    [[To follow Arthur to the death|Die]]
+===
+title: LANCELOT_Question_1
+tags: 
+colorID: 0
+position: -343,-237
+---
+BRIDGEKEEPER: What... is your name?
+    [[Sir Lancelot of Camelot|LANCELOT_Question_2]]
+    [[Sir Robin of Camelot|Die]]
+    [[Sir Galahad of Camelot|Die]]
+    [[Arthur, King of the Britons|Die]]
+===
+title: LANCELOT_Question_2
+tags: 
+colorID: 0
+position: -109,-242
+---
+BRIDGEKEEPER: What... is your quest?
+    [[To seek the Holy Grail|LANCELOT_Question_3]]
+    [[To save the princess|Die]]
+    [[To see the Female Doctors|Die]]
+    [[To follow Arthur to the death|Die]]
+===
+title: LANCELOT_Question_3
+tags: 
+colorID: 0
+position: 125,-241
+---
+BRIDGEKEEPER: What... is your favorite color?
+    [[Blue|Talk]]
+    [[Yellow|Die]]
+    [[Green|Die]]
+    [[Red|Die]]
+===
+title: Die
+tags: 
+colorID: 0
+position: -713,-498
+---
+AAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!!!!!!!!!!!!!!!!!
+===
+title: Talk
+tags: 
+colorID: 0
+position: -710,0
+---
+BRIDGEKEEPER: Right. Off you go.
+LANCELOT: Oh, thank you. Thank you very much.
+ROBIN: That's easy!
+BRIDGEKEEPER: Stop! Who approacheth the Bridge of Death must answer me these questions three, ere the other side he see.
+ROBIN: Ask me the questions, bridgekeeper. I'm not afraid.
+    [[Go|Robin_Question_1]]
+===
+title: Robin_Question_3
+tags: 
+colorID: 0
+position: 129,9
+---
+What... is the capital of Assyria?
+    [[I don't know that!|Talk2]]
+    [[I have no idea!|Die]]
+    [[What?|Die]]
+    [[To follow Arthur to the death|Die]]
+===
+title: Talk2
+tags: 
+colorID: 0
+position: -707,256
+---
+ROBIN: Auuuuuuuugh!
+[[Go|GALAHAD_QUESTION_1]]
+===
+title: GALAHAD_QUESTION_1
+tags: 
+colorID: 0
+position: -332,272
+---
+BRIDGEKEEPER: Stop! What... is your name?
+    [[Sir Lancelot of Camelot|Die]]
+    [[Sir Robin of Camelot|Die]]
+    [[Sir Galahad of Camelot|GALAHAD_QUESTION_2]]
+    [[Arthur, King of the Britons|Die]]
+===
+title: GALAHAD_QUESTION_2
+tags: 
+colorID: 0
+position: -90,270
+---
+What... is your quest?
+    [[To seek the Holy Grail|GALAHAD_QUESTION_3]]
+    [[To save the princess|Die]]
+    [[To see the Female Doctors|Die]]
+    [[To follow Arthur to the death|Die]]
+===
+title: GALAHAD_QUESTION_3
+tags: 
+colorID: 0
+position: 143,266
+---
+What... is your favorite color?
+    [[Blue. No, yel-- auuuuuuuugh!|Talk3]]
+    [[Green|Die]]
+    [[Red|Die]]
+===
+title: ARTHUR_QUESTION_1
+tags: 
+colorID: 0
+position: -323,519
+---
+BRIDGEKEEPER: Stop! What... is your name?
+    [[Sir Lancelot of Camelot|Die]]
+    [[Sir Robin of Camelot|Die]]
+    [[Sir Galahad of Camelot|Die]]
+	[[Arthur, King of the Britons|ARTHUR_QUESTION_2]]
+    
+===
+title: ARTHUR_QUESTION_2
+tags: 
+colorID: 0
+position: -80,516
+---
+What... is your quest?
+    [[To seek the Holy Grail|ARTHUR_QUESTION_3]]
+    [[To save the princess|Die]]
+    [[To see the Female Doctors|Die]]
+    [[To follow Arthur to the death|Die]]
+===
+title: ARTHUR_QUESTION_3
+tags: 
+colorID: 0
+position: 153,527
+---
+What... is the air-speed velocity of an unladen swallow?
+    [[What do you mean? An African or European swallow?|Talk4]]
+===
+title: Talk4
+tags: 
+colorID: 0
+position: -710,772
+---
+BRIDGEKEEPER: Huh? I-- I don't know that. Auuuuuuuugh!
+BEDEVERE: How do know so much about swallows?
+ARTHUR: Well, you have to know these things when you're a king, you know.
+===
+title: Talk3
+tags: 
+colorID: 0
+position: -702,519
+---
+BRIDGEKEEPER: Hee hee heh.
+    [[Go|ARTHUR_QUESTION_1]]
+===

@@ -1,0 +1,33 @@
+title: Sally
+tags: 
+colorID: 1
+position: 121,163
+---
+<<if $Test_Variable is true>>
+    Player: Testing.
+<<endif>> 
+
+<<if visited("Sally") is false>>
+    Player: Hallo.
+<<else>> 
+    Player: Hi. 
+    [[Answer:How are you?|Sally.Angry]]
+     [[Answer:Got to go|Test]]
+<<endif>> 
+
+===
+title: Sally.Angry
+tags: 
+colorID: 0
+position: 443,214
+---
+I'm fine!
+<<set $Test_Variable to true>>
+===
+title: Test
+tags: 
+colorID: 0
+position: 432,-15
+---
+Goodbye
+===

@@ -1,0 +1,14 @@
+{
+    "name": "AssemblyDefinitionEvents",
+    "references": [
+        "GUID:09f46cebd4892c446944e9393c04192e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

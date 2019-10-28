@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cbd209c2ef2693478de31e9ec842b97, type: 3}
+  m_Name: English
+  m_EditorClassIdentifier: 
+  Translations:
+  - Id: menu_start
+    Value: Start
+  - Id: menu_settings
+    Value: Settings
+  - Id: menu_back
+    Value: Back
+  - Id: menu_settings_danish
+    Value: Danish
+  - Id: menu_settings_english
+    Value: English
+  - Id: dialog_helloworld
+    Value: Hello World
+  - Id: menu_settings_audio
+    Value: Audio
+  - Id: test_line_1
+    Value: 'HEAD KNIGHT: Ni! Ni! Ni! Ni!'
+  - Id: test_line_2
+    Value: 'ARTHUR: Who are you?'
+  - Id: test_line_3
+    Value: 'HEAD KNIGHT: We are the Knights Who Say... Ni!'
+  - Id: test_line_4
+    Value: 'ARTHUR: No! Not the Knights Who Say Ni!'
+  - Id: test_line_5
+    Value: 'HEAD KNIGHT: The same!'
+  - Id: test_line_6
+    Value: 'BEDEVERE: Who are they?'
+  - Id: test_line_7
+    Value: 'HEAD KNIGHT: We are the keepers of the sacred words: Ni, Ping, and Nuu-wom!'
+  - Id: test_line_8
+    Value: 'RANDOM: Nuu-wom!'
+  - Id: test_line_9
+    Value: 'ARTHUR: Those who hear them seldom live to tell the tale!'
+  - Id: test_line_10
+    Value: 'HEAD KNIGHT: The Knights Who Say Ni demand a sacrifice!'
+  - Id: test_line_11
+    Value: 'ARTHUR: Knights of Ni, we are but simple travellers who seek the enchanter
+      who lives beyond these woods.'
+  - Id: test_line_12
+    Value: 'HEAD KNIGHT: Ni! Ni! Ni! Ni!'
+  - Id: test_line_13
+    Value: 'ARTHUR and PARTY: Oh, ow!'
+  - Id: test_line_14
+    Value: 'HEAD KNIGHT: We shall say Ni again to you if you do not appease us.'
+  - Id: test_line_15
+    Value: 'ARTHUR: Well, what is it you want?'
+  - Id: test_line_16
+    Value: 'HEAD KNIGHT: We want... a shrubbery!'
+  - Id: test_line_17
+    Value: '[dramatic chord]'
+  - Id: test_line_18
+    Value: 'ARTHUR: A what?'
+  - Id: test_line_19
+    Value: 'HEAD KNIGHT: Ni! Ni!'
+  - Id: test_line_20
+    Value: 'ARTHUR and PARTY: Oh, ow!'
+  - Id: test_line_21
+    Value: 'ARTHUR: Please, please! No more! We will find a shrubbery.'
+  - Id: test_line_22
+    Value: 'HEAD KNIGHT: You must return here with a shrubbery or else you will never
+      pass through this wood alive!'
+  - Id: test_line_23
+    Value: 'ARTHUR: O Knights of Ni, you are just and fair, and we will return with
+      a shrubbery.'
+  - Id: test_line_24
+    Value: 'HEAD KNIGHT: One that looks nice.'
+  - Id: test_line_25
+    Value: 'ARTHUR: Of course.'
+  - Id: test_line_26
+    Value: 'HEAD KNIGHT: And not too expensive.'
+  - Id: test_line_27
+    Value: 'ARTHUR: Yes.'
+  - Id: test_line_28
+    Value: 'HEAD KNIGHT: Now... go!'
+  - Id: test_line_change_language
+    Value: Change Language

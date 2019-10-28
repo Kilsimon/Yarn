@@ -1,0 +1,13 @@
+title: Initial
+tags: 
+colorID: 0
+position: 861,360
+---
+<<if $statement_1 is false>>
+    Hallo
+<<set $statement_1 to true>>
+<<set $statement_2 to true>>
+<<elseif $statement_2 is true>>
+    Yallo
+<<endif>> 
+===

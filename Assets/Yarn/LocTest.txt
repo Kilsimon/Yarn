@@ -1,0 +1,15 @@
+title: Start
+tags: 
+colorID: 0
+position: 193,258
+---
+dialog_helloworld
+[[menu_start|NodeDuVilHenTil]]
+===
+title: NodeDuVilHenTil
+tags: 
+colorID: 0
+position: 193,258
+---
+<<set $DIE to true>>
+===

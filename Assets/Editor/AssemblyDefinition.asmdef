@@ -1,0 +1,16 @@
+{
+    "name": "AssemblyDefinition",
+    "references": [
+        "GUID:199ffbe12c8087946bf9ab9d15fb75b1"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
